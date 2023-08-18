@@ -294,8 +294,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+ OFF STATE:
  
  ![PMC 2](https://github.com/jayasridodda/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/123259278/434ffc3f-eae1-413a-a42d-d1030279213d)
+ON STATE:
 
  ![PMC](https://github.com/jayasridodda/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/123259278/d5a0aff5-bbe4-4fde-bd54-12879bd6313c)
 
